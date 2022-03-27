@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\bin\Debug\LKSMart_01.exe.config
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\bin\Debug\LKSMart_01.exe
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\bin\Debug\LKSMart_01.pdb
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.LoginForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.Properties.Resources.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.exe
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.pdb
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.MainForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.PorfileForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.ShopForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.AddToCartForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_01\LKSMart_01\LKSMart_01\obj\Debug\LKSMart_01.PointForm.resources

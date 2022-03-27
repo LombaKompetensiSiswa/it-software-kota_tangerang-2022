@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F56581DA-3CD3-417F-8010-C0581456CB59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LKSMART_03</RootNamespace>
+    <AssemblyName>LKSMART_03</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddToCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToCart.Designer.cs">
+      <DependentUpon>AddToCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CartClass.cs" />
+    <Compile Include="CartFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CartFrm.Designer.cs">
+      <DependentUpon>CartFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.Designer.cs">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotificationFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotificationFrm.Designer.cs">
+      <DependentUpon>NotificationFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PointHistoryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PointHistoryFrm.Designer.cs">
+      <DependentUpon>PointHistoryFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileFrm.Designer.cs">
+      <DependentUpon>ProfileFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShopFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShopFrm.Designer.cs">
+      <DependentUpon>ShopFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionHistoryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionHistoryFrm.Designer.cs">
+      <DependentUpon>TransactionHistoryFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddToCart.resx">
+      <DependentUpon>AddToCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CartFrm.resx">
+      <DependentUpon>CartFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrm.resx">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificationFrm.resx">
+      <DependentUpon>NotificationFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PointHistoryFrm.resx">
+      <DependentUpon>PointHistoryFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileFrm.resx">
+      <DependentUpon>ProfileFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ShopFrm.resx">
+      <DependentUpon>ShopFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransactionHistoryFrm.resx">
+      <DependentUpon>TransactionHistoryFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\cart.png" />
+    <Content Include="images\delete.png" />
+    <Content Include="images\edit.png" />
+    <Content Include="images\not_available.png" />
+    <Content Include="images\point_history.png" />
+    <Content Include="images\products\10_larutan_kaki_tiga.jpg" />
+    <Content Include="images\products\11_yakult.jpg" />
+    <Content Include="images\products\13_hvs_paper_one.jpg" />
+    <Content Include="images\products\14_standard_ae7.jpg" />
+    <Content Include="images\products\17_juhi_panggang_kw.jpg" />
+    <Content Include="images\products\18_vit_gelas_dus.jpg" />
+    <Content Include="images\products\1_juhi_panggang.jpg" />
+    <Content Include="images\products\2_keripik_emping.jpg" />
+    <Content Include="images\products\3_roma_malkist_keju_tabur_trio.jpg" />
+    <Content Include="images\products\4_tango.jpg" />
+    <Content Include="images\products\7_crystalline.jpg" />
+    <Content Include="images\products\8_aqua_gelas_dus.jpg" />
+    <Content Include="images\products\not_available.png" />
+    <Content Include="images\profile.png" />
+    <Content Include="images\profile_pictures\avatar1.png" />
+    <Content Include="images\profile_pictures\avatar2.png" />
+    <Content Include="images\profile_pictures\avatar3.png" />
+    <Content Include="images\profile_pictures\avatar4.png" />
+    <Content Include="images\profile_pictures\avatar5.png" />
+    <Content Include="images\profile_pictures\avatar6.png" />
+    <Content Include="images\profile_pictures\default_profile_picture.png" />
+    <Content Include="images\profile_pictures\profile.png" />
+    <Content Include="images\shop.png" />
+    <Content Include="images\transaction_history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

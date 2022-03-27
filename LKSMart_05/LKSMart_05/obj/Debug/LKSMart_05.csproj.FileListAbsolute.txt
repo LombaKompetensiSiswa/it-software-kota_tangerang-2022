@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\bin\Debug\LKSMart_05.exe.config
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\bin\Debug\LKSMart_05.exe
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\bin\Debug\LKSMart_05.pdb
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.MainForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.Properties.Resources.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.exe
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.pdb
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.AddToCart.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.Login.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.ShopForm.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.PaymenNotification.resources
+C:\Users\User\Desktop\Soal IT Software LKS Kota Tangerang 2022\LKSMart_05\LKSMart_05\obj\Debug\LKSMart_05.ProfileForm.resources
